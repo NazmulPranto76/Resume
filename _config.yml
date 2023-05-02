@@ -8,13 +8,13 @@ version: 2
 name: Nazmul Islam
 title: Trainee DevOps and Cloud Engineering
 email: nazmulislam76bd@gmail.com
-website:https://nazmulpranto76.github.io/nazmul_islam_resume/
+website: https://nazmul-islam76.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-github_username:  NazmulPranto76
+github_username:  nazmul-islam76
 
 
 # Additional icon links
