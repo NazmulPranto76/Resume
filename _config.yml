@@ -87,9 +87,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BRAC University
-        caption: CGPA: 3.91/4.00 | 
-        2018 - 2022
+        title: BRAC University (2018 - 2022)
+        caption: CGPA: 3.91/4.00
         sub_title: BSc in Computer Science and Engineering 
         description: | # this will include new lines to allow paragraphs
           During my time at the university, I learned most of my theoretical and practical skills. I also learned about teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about a healthy work-life balance.
